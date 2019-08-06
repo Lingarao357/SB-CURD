@@ -1,0 +1,10 @@
+com\example\sample\SampleApplication.class
+com\example\sample\model\PersonalInfo.class
+com\example\sample\dto\PersonalDto.class
+com\example\sample\controller\StudentController.class
+com\example\sample\config\SwaggerConfiguration.class
+com\example\sample\model\StudentInfo.class
+com\example\sample\repository\StudentRepository.class
+com\example\sample\dto\StudentDto.class
+com\example\sample\controller\PersonalController.class
+com\example\sample\repository\PersonalRepository.class
